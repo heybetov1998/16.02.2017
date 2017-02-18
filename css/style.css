@@ -1,0 +1,309 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.fullWidth {
+    width: 100%;
+}
+
+.width-960 {
+    width: 960px;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+.clearFix {
+    clear: both;
+}
+
+.main {
+    margin: 0 auto;
+}
+
+.header {
+    color: white;
+    background: #0A2631;
+    margin: 0 auto;
+    height: 70px;
+}
+
+.mainHeader {
+    background: #0A2631;
+    border-bottom: 2px solid #FBB600;
+}
+
+.nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px;
+}
+
+.name h1 {
+    margin: 20px;
+    padding: 0;
+}
+
+span {
+    color: #FBB600;
+}
+
+.mainSignUp {
+    background: #0a2631
+}
+
+.signUp {
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    height: 500px;
+}
+
+.signUpText {
+    padding-top: 60px;
+}
+
+.signUp h1, .weWork h1 {
+    margin: 0;
+}
+
+.signUpText p {
+    margin: 50px 0 25px 0;
+}
+
+.websites {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.websites img {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.mainWeWork {
+    background: #FBB600;
+}
+
+.weWork {
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    height: 300px;
+}
+
+.weWork h1 {
+    padding: 80px;
+}
+
+.mainPortfolio, .mainServices {
+    margin-top: 2px;
+    height: 870px;
+    background: #ECECEC;
+}
+
+.portfolio {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.portfolio h1 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.roww {
+    width: 33.33%;
+}
+
+.portfolioText img {
+    margin-top: 60px;
+    margin-bottom: 15px;
+    height: 70px;
+    width: 70px;
+}
+
+.one {
+    width: 280px;
+    height: 150px;
+    overflow: hidden;
+    margin: 0;
+}
+
+.onetext {
+    text-align: left;
+    width: 280px;
+    margin: 0;
+}
+
+.mainServices {
+    height: 500px;
+}
+
+.services {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.services h1 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.servicesText img {
+    margin-top: 60px;
+    margin-bottom: 15px;
+    height: 70px;
+    width: 70px;
+}
+
+.depart {
+    height: 220px;
+    width: 22.90%;
+    margin: 10px;
+    background: #E4E4E4;
+}
+
+.mainJonDoe {
+    background: #FBB600;
+    margin-top: 2px;
+    height: 300px;
+}
+
+.jonDoe {
+    padding: 80px;
+    margin: 0 auto;
+    background: #fBb600;
+}
+
+.depart p {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.depart img {
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.jonDoe p, h1 {
+    margin: 0;
+}
+
+.mainOurBlog {
+    height: 700px;
+    background: #E4E4E4;
+    margin-top: 2px;
+}
+
+.ourBlog {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ourBlogText img {
+    margin-top: 60px;
+    margin-bottom: 15px;
+    height: 70px;
+    width: 70px;
+}
+button{
+    margin-top: 60px;
+    border:
+}
+.ourBlog h1 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+.natures p{
+    width: 230px;
+}
+.nature{
+    width: 33.33%;
+}
+.two {
+    width: 230px;
+    height: 160px;
+    overflow: hidden;
+    padding-left: 40px;
+}
+.natures p{
+    padding-left: 40px;
+}
+.mainMeetTheTeam{
+    background: #242015;
+    height: 650px;
+}
+.meetTheTeam{
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+}
+.meetTheTeamText img {
+    margin-top: 60px;
+    margin-bottom: 15px;
+    height: 70px;
+    width: 70px;
+}
+.mainContact{
+    background: #242015;
+    height: 700px;
+}
+.contact{
+    margin: 0 auto;
+    text-align: center;
+}
+.contactText img {
+    margin-top: 60px;
+    margin-bottom: 15px;
+    height: 70px;
+    width: 70px;
+}
+.margin{
+    margin: 30px;
+}
+.meetTheTeamText h1{
+    margin: 0;
+    margin-bottom: 20px;
+}
+.developers{
+    margin-top: 60px
+}
+.developer div:first-child{
+    margin-left: 10px;
+}
+.developer{
+    margin-left: 75px;
+    width: 33.33%;
+    border-radius: 100%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+}
+.projecter{
+    color: white;
+    height: 50px;
+}
+.knowMore{
+    margin-top: 40px;
+}
+input{
+    padding: 10px;
+}
+button{
+    padding: 10px;
+}
+.footer{
+    text-align: center;
+    padding: 10px;
+}
